@@ -1,0 +1,2 @@
+access_keu : AKIAR4KJP3BG6TRWF7SW
+secret_key : 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
